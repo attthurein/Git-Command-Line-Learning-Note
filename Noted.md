@@ -130,7 +130,7 @@ git push origin <branch>
 ```sh
 git push -u origin <branch>
 ```
-**Remarks:** [You can check, What different between both [You can check, What different between both ](https://github.com/attthurein/Git-Command-Line-Learning-Note/blob/main/Q%26A/Q%26A_1.md)
+**Remarks:** [You can check, What different between both ](https://github.com/attthurein/Git-Command-Line-Learning-Note/blob/main/Q%26A/Q%26A_1.md)
 
 ```sh
 git push -u origin <branch>
