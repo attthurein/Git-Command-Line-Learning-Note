@@ -97,30 +97,45 @@ To see local branches, run this command:
 ```sh
 git branch
 ```
+
 To see remote branches, run this command:
 ```sh
 git branch -r
 ```
+
 To see all local and remote branches, run this command:
 ```sh
 git branch -a
 ```
+
 To create a branch named feature_x
 ```sh
 git checkout -b feature_x
 ```
+
 To switch branch to the master branch
 ```sh
 git checkout master
 ```
+
 To delete a branch
 ```sh
 git branch -d feature_x
 ```
-To put your branch online
+
+To put your branch online (Q&A)
 ```sh
 git push origin <branch>
 ```
+```sh
+git push -u origin <branch>
+```
+**Remarks:** [You can check, What different between both [You can check, What different between both ](https://github.com/attthurein/Git-Command-Line-Learning-Note/blob/main/Q%26A/Q%26A_1.md)
+
+```sh
+git push -u origin <branch>
+```
+
 To merge a branch
 ```sh
 git merge <branch>
